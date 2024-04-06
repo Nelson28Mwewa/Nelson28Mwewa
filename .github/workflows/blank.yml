@@ -1,0 +1,33 @@
+
+// HouseRentalManagementApp
+
+// Description
+// This application is designed to manage house and building rentals from tenant to landlord. Landlords can easily track who has paid and who has not paid rent. Tenants can make payments using mobile money services directly to the landlord. Landlords can set prices for their properties as well. The application manager will have access to all the information except for tenants' and landlords' private information.
+
+// Features
+// - Track rent payments
+// - Accept mobile money payments
+// - Set rental prices
+// - Secure access for application manager
+// - Data protection for tenants' and landlords' private information
+
+// Technologies Used
+// - Frontend: HTML, CSS, JavaScript
+// - Backend: Node.js, Express.js
+// - Database: MongoDB
+// - Payment Gateway: Mobile money services API
+
+// Installation
+// 1. Clone the repository:
+//    git clone https://github.com/your-username/HouseRentalManagementApp.git
+
+// 2. Install dependencies:
+//    npm install
+
+// 3. Run the application:
+//    node app.js
+
+// 4. Access the application at http://localhost:3000
+
+// License
+// This project is licensed under the MIT License - see the LICENSE file for details.
